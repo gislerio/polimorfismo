@@ -1,0 +1,16 @@
+{
+    "name": "gislerio/polimorfismo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gislerio",
+            "email": "gisleriojunior@hotmail.com"
+        }
+    ],
+    "require": {}
+}
